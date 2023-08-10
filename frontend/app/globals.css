@@ -6,9 +6,8 @@
 }
 
 #bgone {
-  background-image: url('./../public/assets/bgs/bgone.webp');
+  background-image: url('./../public/assets/bgs/bgone.png');
   background-repeat: no-repeat;
   background-position: center;
-  background-size: contain;
-  background-color: black;
+  background-size: cover;
 }
