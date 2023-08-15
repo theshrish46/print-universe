@@ -6,6 +6,10 @@ export default function Home() {
     <>
       <div>
         <HeroPage />
+        <div>
+          <p>
+          </p>
+        </div>
       </div>
     </>
   );
